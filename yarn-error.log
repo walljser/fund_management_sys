@@ -1,0 +1,27 @@
+Arguments: 
+  D:\develop\nodejs\node.exe D:\develop\nvm\npm\node_modules\yarn\bin\yarn.js install
+
+PATH: 
+  C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\develop\Git\cmd;E:\Program Files\SVN\bin;C:\Users\greyu\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.7.0_79\bin;E:\Program Files\Microsoft VS Code\bin;D:\develop\nvm\npm;D:\develop\nvm;D:\develop\nodejs;C:\Program Files\MySQL\MySQL Server 5.7\bin
+
+Yarn version: 
+  0.24.5
+
+Node version: 
+  6.10.0
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: EPERM: operation not permitted, unlink 'E:\webCode\fund_management_sys\node_modules\node-sass\vendor\win32-x64-48\binding.node'
+      at Error (native)
